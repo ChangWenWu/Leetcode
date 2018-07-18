@@ -7,6 +7,7 @@
 
 #include <stdio.h>
 
+//从数组尾部开始遍历，若遇到nums[i]与nums[i-1]相等，则移除nums[i-1]，数组大小减1
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {

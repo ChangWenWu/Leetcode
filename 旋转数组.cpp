@@ -7,6 +7,7 @@
 
 #include <stdio.h>
 
+//先将k对数组大小取模，然后将数组后K个数依次插入到数组首部
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {

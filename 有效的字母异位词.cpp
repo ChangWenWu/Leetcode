@@ -7,6 +7,7 @@
 
 #include <stdio.h>
 
+//对两个字符串排序后遍历，相同下标遇到不相同的字符则返回false
 class Solution {
     public boolean isAnagram(String s, String t) {
         if(s.length() != t.length()) return false;

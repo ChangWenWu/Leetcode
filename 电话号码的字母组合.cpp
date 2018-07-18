@@ -7,6 +7,7 @@
 
 #include <stdio.h>
 
+//暴力枚举，初始化的数组包含一个空字符串，每读取一个数字则将该数字所有对应的字母与数组中的字符串两两组合
 class Solution {
 public:
     vector<string> letterCombinations(string digits) {
