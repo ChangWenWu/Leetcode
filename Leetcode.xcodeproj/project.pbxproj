@@ -10,12 +10,14 @@
 		6384538820FED43300A9518C /* 有效的字母异位词.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "有效的字母异位词.cpp"; sourceTree = "<group>"; };
 		6384538920FED63F00A9518C /* 电话号码的字母组合.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "电话号码的字母组合.cpp"; sourceTree = "<group>"; };
 		6384538A20FED77900A9518C /* 删除排序数组中的重复项.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "删除排序数组中的重复项.cpp"; sourceTree = "<group>"; };
+		6384538C20FED7D700A9518C /* 买卖股票的最佳时机 II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "买卖股票的最佳时机 II.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		6384538120FED30E00A9518C = {
 			isa = PBXGroup;
 			children = (
+				6384538C20FED7D700A9518C /* 买卖股票的最佳时机 II.cpp */,
 				6384538820FED43300A9518C /* 有效的字母异位词.cpp */,
 				6384538A20FED77900A9518C /* 删除排序数组中的重复项.cpp */,
 				6384538920FED63F00A9518C /* 电话号码的字母组合.cpp */,
