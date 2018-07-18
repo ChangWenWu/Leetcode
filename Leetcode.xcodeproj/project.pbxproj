@@ -6,10 +6,15 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		6384538820FED43300A9518C /* 有效的字母异位词.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "有效的字母异位词.cpp"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		6384538120FED30E00A9518C = {
 			isa = PBXGroup;
 			children = (
+				6384538820FED43300A9518C /* 有效的字母异位词.cpp */,
 			);
 			sourceTree = "<group>";
 		};
