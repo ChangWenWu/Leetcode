@@ -15,6 +15,7 @@
 		638453BD20FF254D00A9518C /* 存在重复.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "存在重复.cpp"; sourceTree = "<group>"; };
 		638453C520FF435C00A9518C /* 只出现一次的数字.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "只出现一次的数字.cpp"; sourceTree = "<group>"; };
 		638453C621002BF400A9518C /* 两个数组的交集 II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "两个数组的交集 II.cpp"; sourceTree = "<group>"; };
+		63FA08022100643500AD5AB4 /* 加一.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "加一.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -28,6 +29,7 @@
 				638453BD20FF254D00A9518C /* 存在重复.cpp */,
 				638453C520FF435C00A9518C /* 只出现一次的数字.cpp */,
 				638453C621002BF400A9518C /* 两个数组的交集 II.cpp */,
+				63FA08022100643500AD5AB4 /* 加一.cpp */,
 				6384538920FED63F00A9518C /* 电话号码的字母组合.cpp */,
 			);
 			sourceTree = "<group>";
