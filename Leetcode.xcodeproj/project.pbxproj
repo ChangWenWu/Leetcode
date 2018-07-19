@@ -13,6 +13,8 @@
 		6384538C20FED7D700A9518C /* 买卖股票的最佳时机 II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "买卖股票的最佳时机 II.cpp"; sourceTree = "<group>"; };
 		6384538D20FED81A00A9518C /* 旋转数组.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "旋转数组.cpp"; sourceTree = "<group>"; };
 		638453BD20FF254D00A9518C /* 存在重复.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "存在重复.cpp"; sourceTree = "<group>"; };
+		638453C520FF435C00A9518C /* 只出现一次的数字.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "只出现一次的数字.cpp"; sourceTree = "<group>"; };
+		638453C621002BF400A9518C /* 两个数组的交集 II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "两个数组的交集 II.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -24,6 +26,8 @@
 				6384538820FED43300A9518C /* 有效的字母异位词.cpp */,
 				6384538A20FED77900A9518C /* 删除排序数组中的重复项.cpp */,
 				638453BD20FF254D00A9518C /* 存在重复.cpp */,
+				638453C520FF435C00A9518C /* 只出现一次的数字.cpp */,
+				638453C621002BF400A9518C /* 两个数组的交集 II.cpp */,
 				6384538920FED63F00A9518C /* 电话号码的字母组合.cpp */,
 			);
 			sourceTree = "<group>";
