@@ -19,6 +19,7 @@
 		63FA08182100852700AD5AB4 /* 移动零.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "移动零.cpp"; sourceTree = "<group>"; };
 		63FA081B2101B0FE00AD5AB4 /* 两数之和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "两数之和.cpp"; sourceTree = "<group>"; };
 		63FA081C2101B22100AD5AB4 /* 有效的数独.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "有效的数独.cpp"; sourceTree = "<group>"; };
+		63FA081D2101E7F600AD5AB4 /* 旋转图像.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "旋转图像.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -36,6 +37,7 @@
 				63FA08182100852700AD5AB4 /* 移动零.cpp */,
 				63FA081B2101B0FE00AD5AB4 /* 两数之和.cpp */,
 				63FA081C2101B22100AD5AB4 /* 有效的数独.cpp */,
+				63FA081D2101E7F600AD5AB4 /* 旋转图像.cpp */,
 				6384538920FED63F00A9518C /* 电话号码的字母组合.cpp */,
 			);
 			sourceTree = "<group>";
