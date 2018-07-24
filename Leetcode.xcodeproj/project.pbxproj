@@ -12,6 +12,8 @@
 		630F6C552105B23100656FD2 /* 字符串中的第一个唯一字符.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "字符串中的第一个唯一字符.cpp"; sourceTree = "<group>"; };
 		630F6C562105C03600656FD2 /* 有效的字母异位词.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "有效的字母异位词.cpp"; sourceTree = "<group>"; };
 		630F6C572105C0ED00656FD2 /* 验证回文字符串.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "验证回文字符串.cpp"; sourceTree = "<group>"; };
+		630F6C582105C5E800656FD2 /* 字符串转整数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "字符串转整数.cpp"; sourceTree = "<group>"; };
+		630F6C592106C09800656FD2 /* 实现strStr().cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "实现strStr().cpp"; sourceTree = "<group>"; };
 		6384538920FED63F00A9518C /* 电话号码的字母组合.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "电话号码的字母组合.cpp"; sourceTree = "<group>"; };
 		6384538A20FED77900A9518C /* 删除排序数组中的重复项.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "删除排序数组中的重复项.cpp"; sourceTree = "<group>"; };
 		6384538C20FED7D700A9518C /* 买卖股票的最佳时机 II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "买卖股票的最佳时机 II.cpp"; sourceTree = "<group>"; };
@@ -46,6 +48,8 @@
 				630F6C552105B23100656FD2 /* 字符串中的第一个唯一字符.cpp */,
 				630F6C562105C03600656FD2 /* 有效的字母异位词.cpp */,
 				630F6C572105C0ED00656FD2 /* 验证回文字符串.cpp */,
+				630F6C582105C5E800656FD2 /* 字符串转整数.cpp */,
+				630F6C592106C09800656FD2 /* 实现strStr().cpp */,
 				6384538920FED63F00A9518C /* 电话号码的字母组合.cpp */,
 			);
 			sourceTree = "<group>";
