@@ -16,6 +16,7 @@
 		630F6C592106C09800656FD2 /* 实现strStr().cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "实现strStr().cpp"; sourceTree = "<group>"; };
 		630F6C5A2106C63600656FD2 /* 数数并说.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "数数并说.cpp"; sourceTree = "<group>"; };
 		630F6C5B2106F90000656FD2 /* 最长公共前缀.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "最长公共前缀.cpp"; sourceTree = "<group>"; };
+		630F6C5C2108101700656FD2 /* 删除链表中的节点.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "删除链表中的节点.cpp"; sourceTree = "<group>"; };
 		6384538920FED63F00A9518C /* 电话号码的字母组合.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "电话号码的字母组合.cpp"; sourceTree = "<group>"; };
 		6384538A20FED77900A9518C /* 删除排序数组中的重复项.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "删除排序数组中的重复项.cpp"; sourceTree = "<group>"; };
 		6384538C20FED7D700A9518C /* 买卖股票的最佳时机 II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "买卖股票的最佳时机 II.cpp"; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 				638453BD20FF254D00A9518C /* 存在重复.cpp */,
 				638453C520FF435C00A9518C /* 只出现一次的数字.cpp */,
 				638453C621002BF400A9518C /* 两个数组的交集 II.cpp */,
+				630F6C5C2108101700656FD2 /* 删除链表中的节点.cpp */,
 				63FA08022100643500AD5AB4 /* 加一.cpp */,
 				63FA08182100852700AD5AB4 /* 移动零.cpp */,
 				63FA081B2101B0FE00AD5AB4 /* 两数之和.cpp */,
