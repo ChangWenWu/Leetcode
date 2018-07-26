@@ -7,6 +7,8 @@
 
 #include <stdio.h>
 
+
+//先使用龟兔赛跑思想取得链表中间的节点，之后将节点后的链表反转，一一比对
 class Solution {
 public:
     ListNode* getMiddle(ListNode* head){
