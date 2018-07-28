@@ -27,6 +27,7 @@
 		63591375210ABC4400C1D38F /* 对称二叉树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "对称二叉树.cpp"; sourceTree = "<group>"; };
 		63591378210ACA0E00C1D38F /* 二叉树的层次遍历.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "二叉树的层次遍历.cpp"; sourceTree = "<group>"; };
 		63591382210C036D00C1D38F /* 将有序数组转换为二叉搜索树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "将有序数组转换为二叉搜索树.cpp"; sourceTree = "<group>"; };
+		63591383210C1E4600C1D38F /* 合并两个有序数组.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "合并两个有序数组.cpp"; sourceTree = "<group>"; };
 		6384538920FED63F00A9518C /* 电话号码的字母组合.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "电话号码的字母组合.cpp"; sourceTree = "<group>"; };
 		6384538A20FED77900A9518C /* 删除排序数组中的重复项.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "删除排序数组中的重复项.cpp"; sourceTree = "<group>"; };
 		6384538C20FED7D700A9518C /* 买卖股票的最佳时机 II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "买卖股票的最佳时机 II.cpp"; sourceTree = "<group>"; };
@@ -46,6 +47,7 @@
 			isa = PBXGroup;
 			children = (
 				6384538C20FED7D700A9518C /* 买卖股票的最佳时机 II.cpp */,
+				63591383210C1E4600C1D38F /* 合并两个有序数组.cpp */,
 				6384538D20FED81A00A9518C /* 旋转数组.cpp */,
 				6384538A20FED77900A9518C /* 删除排序数组中的重复项.cpp */,
 				638453BD20FF254D00A9518C /* 存在重复.cpp */,
