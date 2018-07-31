@@ -22,6 +22,7 @@
 		630F6C5F21082A3600656FD2 /* 合并两个有序链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "合并两个有序链表.cpp"; sourceTree = "<group>"; };
 		6320E77F210998FD007B73B4 /* 回文链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "回文链表.cpp"; sourceTree = "<group>"; };
 		6320E7802109A55F007B73B4 /* 环形链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "环形链表.cpp"; sourceTree = "<group>"; };
+		632257F4211002CF0013EBBA /* 打家劫舍.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "打家劫舍.cpp"; sourceTree = "<group>"; };
 		635913692109B48100C1D38F /* 二叉树的最大深度.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "二叉树的最大深度.cpp"; sourceTree = "<group>"; };
 		63591374210AB43200C1D38F /* 验证二叉搜索树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "验证二叉搜索树.cpp"; sourceTree = "<group>"; };
 		63591375210ABC4400C1D38F /* 对称二叉树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "对称二叉树.cpp"; sourceTree = "<group>"; };
@@ -65,6 +66,7 @@
 				6320E7802109A55F007B73B4 /* 环形链表.cpp */,
 				63591397210EB3F200C1D38F /* 买卖股票的最佳时机.cpp */,
 				63591398210EB71E00C1D38F /* 最大子序和.cpp */,
+				632257F4211002CF0013EBBA /* 打家劫舍.cpp */,
 				635913692109B48100C1D38F /* 二叉树的最大深度.cpp */,
 				63591374210AB43200C1D38F /* 验证二叉搜索树.cpp */,
 				63591375210ABC4400C1D38F /* 对称二叉树.cpp */,
