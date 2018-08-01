@@ -21,6 +21,7 @@
 		630F6C5E21081F5600656FD2 /* 反转链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "反转链表.cpp"; sourceTree = "<group>"; };
 		630F6C5F21082A3600656FD2 /* 合并两个有序链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "合并两个有序链表.cpp"; sourceTree = "<group>"; };
 		631D7959211180B40029CB10 /* Fizz Buzz.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Fizz Buzz.cpp"; sourceTree = "<group>"; };
+		631D795A2111847B0029CB10 /* 计数质数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "计数质数.cpp"; sourceTree = "<group>"; };
 		6320E77F210998FD007B73B4 /* 回文链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "回文链表.cpp"; sourceTree = "<group>"; };
 		6320E7802109A55F007B73B4 /* 环形链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "环形链表.cpp"; sourceTree = "<group>"; };
 		632257F4211002CF0013EBBA /* 打家劫舍.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "打家劫舍.cpp"; sourceTree = "<group>"; };
@@ -73,6 +74,7 @@
 				632257F521100E180013EBBA /* 打乱数组.cpp */,
 				6339F413211158B800450689 /* 最小栈.cpp */,
 				631D7959211180B40029CB10 /* Fizz Buzz.cpp */,
+				631D795A2111847B0029CB10 /* 计数质数.cpp */,
 				635913692109B48100C1D38F /* 二叉树的最大深度.cpp */,
 				63591374210AB43200C1D38F /* 验证二叉搜索树.cpp */,
 				63591375210ABC4400C1D38F /* 对称二叉树.cpp */,
