@@ -41,6 +41,7 @@
 		63591397210EB3F200C1D38F /* 买卖股票的最佳时机.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "买卖股票的最佳时机.cpp"; sourceTree = "<group>"; };
 		63591398210EB71E00C1D38F /* 最大子序和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "最大子序和.cpp"; sourceTree = "<group>"; };
 		636838C52113EBF10091021A /* 汉明距离.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "汉明距离.cpp"; sourceTree = "<group>"; };
+		636838C82113F66B0091021A /* 颠倒二进制位.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "颠倒二进制位.cpp"; sourceTree = "<group>"; };
 		6384538920FED63F00A9518C /* 电话号码的字母组合.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "电话号码的字母组合.cpp"; sourceTree = "<group>"; };
 		6384538A20FED77900A9518C /* 删除排序数组中的重复项.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "删除排序数组中的重复项.cpp"; sourceTree = "<group>"; };
 		6384538C20FED7D700A9518C /* 买卖股票的最佳时机 II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "买卖股票的最佳时机 II.cpp"; sourceTree = "<group>"; };
@@ -83,6 +84,7 @@
 				631D79612112D2970029CB10 /* 罗马数字转整数.cpp */,
 				631D79622112D69D0029CB10 /* 位1的个数.cpp */,
 				636838C52113EBF10091021A /* 汉明距离.cpp */,
+				636838C82113F66B0091021A /* 颠倒二进制位.cpp */,
 				635913692109B48100C1D38F /* 二叉树的最大深度.cpp */,
 				63591374210AB43200C1D38F /* 验证二叉搜索树.cpp */,
 				63591375210ABC4400C1D38F /* 对称二叉树.cpp */,
