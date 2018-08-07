@@ -46,6 +46,7 @@
 		636838CF2117E2700091021A /* 有效的括号.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "有效的括号.cpp"; sourceTree = "<group>"; };
 		636838D02117E7280091021A /* 缺失数字.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "缺失数字.cpp"; sourceTree = "<group>"; };
 		636838D6211949090091021A /* 三数之和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "三数之和.cpp"; sourceTree = "<group>"; };
+		636838D7211981530091021A /* 矩阵置零.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "矩阵置零.cpp"; sourceTree = "<group>"; };
 		6384538920FED63F00A9518C /* 电话号码的字母组合.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "电话号码的字母组合.cpp"; sourceTree = "<group>"; };
 		6384538A20FED77900A9518C /* 删除排序数组中的重复项.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "删除排序数组中的重复项.cpp"; sourceTree = "<group>"; };
 		6384538C20FED7D700A9518C /* 买卖股票的最佳时机 II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "买卖股票的最佳时机 II.cpp"; sourceTree = "<group>"; };
@@ -123,6 +124,7 @@
 			isa = PBXGroup;
 			children = (
 				636838D6211949090091021A /* 三数之和.cpp */,
+				636838D7211981530091021A /* 矩阵置零.cpp */,
 			);
 			path = "中级算法";
 			sourceTree = "<group>";
