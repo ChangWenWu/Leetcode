@@ -60,7 +60,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
-		6384538120FED30E00A9518C = {
+		636838D42119424F0091021A /* 初级算法 */ = {
 			isa = PBXGroup;
 			children = (
 				6384538C20FED7D700A9518C /* 买卖股票的最佳时机 II.cpp */,
@@ -113,6 +113,15 @@
 				630F6C5A2106C63600656FD2 /* 数数并说.cpp */,
 				630F6C5B2106F90000656FD2 /* 最长公共前缀.cpp */,
 				6384538920FED63F00A9518C /* 电话号码的字母组合.cpp */,
+			);
+			name = "初级算法";
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		6384538120FED30E00A9518C = {
+			isa = PBXGroup;
+			children = (
+				636838D42119424F0091021A /* 初级算法 */,
 			);
 			sourceTree = "<group>";
 		};
