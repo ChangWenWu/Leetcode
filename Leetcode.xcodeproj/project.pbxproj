@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		630E8A61211C191800B2BD56 /* 递增的三元子序列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = "递增的三元子序列.cpp"; path = "中级算法/递增的三元子序列.cpp"; sourceTree = SOURCE_ROOT; };
 		630F6C532105A56C00656FD2 /* 反转字符串.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "反转字符串.cpp"; sourceTree = "<group>"; };
 		630F6C542105A7AA00656FD2 /* 颠倒整数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "颠倒整数.cpp"; sourceTree = "<group>"; };
 		630F6C552105B23100656FD2 /* 字符串中的第一个唯一字符.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "字符串中的第一个唯一字符.cpp"; sourceTree = "<group>"; };
@@ -118,6 +119,7 @@
 				630F6C5A2106C63600656FD2 /* 数数并说.cpp */,
 				630F6C5B2106F90000656FD2 /* 最长公共前缀.cpp */,
 				6384538920FED63F00A9518C /* 电话号码的字母组合.cpp */,
+				630E8A61211C191800B2BD56 /* 递增的三元子序列.cpp */,
 			);
 			name = "初级算法";
 			path = "New Group";
