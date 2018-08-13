@@ -60,6 +60,10 @@
 		638453BD20FF254D00A9518C /* 存在重复.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "存在重复.cpp"; sourceTree = "<group>"; };
 		638453C520FF435C00A9518C /* 只出现一次的数字.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "只出现一次的数字.cpp"; sourceTree = "<group>"; };
 		638453C621002BF400A9518C /* 两个数组的交集 II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "两个数组的交集 II.cpp"; sourceTree = "<group>"; };
+		63BA257321217B6200DD3B65 /* 二叉树的锯齿形层次遍历.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "二叉树的锯齿形层次遍历.cpp"; sourceTree = "<group>"; };
+		63BA257421217B6300DD3B65 /* 从前序与中序遍历序列构造二叉树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "从前序与中序遍历序列构造二叉树.cpp"; sourceTree = "<group>"; };
+		63BA257521217B6300DD3B65 /* 中序遍历二叉树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "中序遍历二叉树.cpp"; sourceTree = "<group>"; };
+		63BA257621217B6300DD3B65 /* 相交链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "相交链表.cpp"; sourceTree = "<group>"; };
 		63FA08022100643500AD5AB4 /* 加一.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "加一.cpp"; sourceTree = "<group>"; };
 		63FA08182100852700AD5AB4 /* 移动零.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "移动零.cpp"; sourceTree = "<group>"; };
 		63FA081B2101B0FE00AD5AB4 /* 两数之和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "两数之和.cpp"; sourceTree = "<group>"; };
@@ -130,6 +134,10 @@
 		636838D5211943FC0091021A /* 中级算法 */ = {
 			isa = PBXGroup;
 			children = (
+				63BA257421217B6300DD3B65 /* 从前序与中序遍历序列构造二叉树.cpp */,
+				63BA257321217B6200DD3B65 /* 二叉树的锯齿形层次遍历.cpp */,
+				63BA257621217B6300DD3B65 /* 相交链表.cpp */,
+				63BA257521217B6300DD3B65 /* 中序遍历二叉树.cpp */,
 				636838D6211949090091021A /* 三数之和.cpp */,
 				636838D7211981530091021A /* 矩阵置零.cpp */,
 				636838D8211A87000091021A /* 字谜分组.cpp */,
