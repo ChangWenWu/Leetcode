@@ -66,6 +66,7 @@
 		63BA257621217B6300DD3B65 /* 相交链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "相交链表.cpp"; sourceTree = "<group>"; };
 		63BA257721217B8D00DD3B65 /* 每个节点的右向指针.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "每个节点的右向指针.cpp"; sourceTree = "<group>"; };
 		63BA257821217D0600DD3B65 /* 二叉搜索树中第K小的元素.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "二叉搜索树中第K小的元素.cpp"; sourceTree = "<group>"; };
+		63BA25882122CF4B00DD3B65 /* 岛屿的个数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "岛屿的个数.cpp"; sourceTree = "<group>"; };
 		63FA08022100643500AD5AB4 /* 加一.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "加一.cpp"; sourceTree = "<group>"; };
 		63FA08182100852700AD5AB4 /* 移动零.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "移动零.cpp"; sourceTree = "<group>"; };
 		63FA081B2101B0FE00AD5AB4 /* 两数之和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "两数之和.cpp"; sourceTree = "<group>"; };
@@ -149,6 +150,7 @@
 				63356BF2211D328500B6FBCC /* 奇偶链表.cpp */,
 				63BA257721217B8D00DD3B65 /* 每个节点的右向指针.cpp */,
 				63BA257821217D0600DD3B65 /* 二叉搜索树中第K小的元素.cpp */,
+				63BA25882122CF4B00DD3B65 /* 岛屿的个数.cpp */,
 			);
 			path = "中级算法";
 			sourceTree = "<group>";
