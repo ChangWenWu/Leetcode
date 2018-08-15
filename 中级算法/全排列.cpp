@@ -7,14 +7,15 @@
 
 #include <stdio.h>
 
+//递归解法
 class Solution {
 public:
-    void DFS(vector<vector<int>>& res, int floor, vector<int>& nums){
-        if(floor >= nums.size()) res.push_back(nums);
-        for(int i = floor; i < nums.size(); i++){
-            swap(nums[i], nums[floor]);
-            DFS(res, floor + 1, nums);
-            swap(nums[i], nums[floor]);
+    void DFS(vector<vector<int>>& res, int depth, vector<int>& nums){
+        if(depth >= nums.size()) res.push_back(nums);
+        for(int i = depth; i < nums.size(); i++){
+            swap(nums[i], nums[depth]);
+            DFS(res, depth + 1, nums);
+            swap(nums[i], nums[depth]);
         }
     }
     

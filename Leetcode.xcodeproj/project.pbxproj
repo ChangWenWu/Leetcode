@@ -69,6 +69,7 @@
 		63BA25882122CF4B00DD3B65 /* 岛屿的个数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "岛屿的个数.cpp"; sourceTree = "<group>"; };
 		63BA25892122DF5D00DD3B65 /* 生成括号.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "生成括号.cpp"; sourceTree = "<group>"; };
 		63BA258C212422D500DD3B65 /* 全排列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "全排列.cpp"; sourceTree = "<group>"; };
+		63BA258D21242D4A00DD3B65 /* 子集.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "子集.cpp"; sourceTree = "<group>"; };
 		63FA08022100643500AD5AB4 /* 加一.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "加一.cpp"; sourceTree = "<group>"; };
 		63FA08182100852700AD5AB4 /* 移动零.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "移动零.cpp"; sourceTree = "<group>"; };
 		63FA081B2101B0FE00AD5AB4 /* 两数之和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "两数之和.cpp"; sourceTree = "<group>"; };
@@ -104,6 +105,7 @@
 				63BA25882122CF4B00DD3B65 /* 岛屿的个数.cpp */,
 				63BA25892122DF5D00DD3B65 /* 生成括号.cpp */,
 				63BA258C212422D500DD3B65 /* 全排列.cpp */,
+				63BA258D21242D4A00DD3B65 /* 子集.cpp */,
 			);
 			path = "中级算法";
 			sourceTree = "<group>";
