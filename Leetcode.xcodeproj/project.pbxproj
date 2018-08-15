@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		630E8A61211C191800B2BD56 /* 递增的三元子序列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = "递增的三元子序列.cpp"; path = "中级算法/递增的三元子序列.cpp"; sourceTree = SOURCE_ROOT; };
+		630E8A61211C191800B2BD56 /* 递增的三元子序列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = "递增的三元子序列.cpp"; path = "初级算法/递增的三元子序列.cpp"; sourceTree = SOURCE_ROOT; };
 		630F6C532105A56C00656FD2 /* 反转字符串.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "反转字符串.cpp"; sourceTree = "<group>"; };
 		630F6C542105A7AA00656FD2 /* 颠倒整数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "颠倒整数.cpp"; sourceTree = "<group>"; };
 		630F6C552105B23100656FD2 /* 字符串中的第一个唯一字符.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "字符串中的第一个唯一字符.cpp"; sourceTree = "<group>"; };
@@ -76,11 +76,50 @@
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
-		636838D42119424F0091021A /* 初级算法 */ = {
+		636838D42119424F0091021A /* aaa */ = {
 			isa = PBXGroup;
 			children = (
-				6384538C20FED7D700A9518C /* 买卖股票的最佳时机 II.cpp */,
+			);
+			name = aaa;
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		636838D5211943FC0091021A /* 中级算法 */ = {
+			isa = PBXGroup;
+			children = (
+				63BA257421217B6300DD3B65 /* 从前序与中序遍历序列构造二叉树.cpp */,
+				63BA257321217B6200DD3B65 /* 二叉树的锯齿形层次遍历.cpp */,
+				63BA257621217B6300DD3B65 /* 相交链表.cpp */,
+				63BA257521217B6300DD3B65 /* 中序遍历二叉树.cpp */,
+				636838D6211949090091021A /* 三数之和.cpp */,
+				636838D7211981530091021A /* 矩阵置零.cpp */,
+				636838D8211A87000091021A /* 字谜分组.cpp */,
+				636838D9211A90260091021A /* 无重复字符的最长子串.cpp */,
+				636838DA211BD6FF0091021A /* 最长回文子串.cpp */,
+				63356BF1211D283F00B6FBCC /* 两数相加.cpp */,
+				63356BF2211D328500B6FBCC /* 奇偶链表.cpp */,
+				63BA257721217B8D00DD3B65 /* 每个节点的右向指针.cpp */,
+				63BA257821217D0600DD3B65 /* 二叉搜索树中第K小的元素.cpp */,
+				63BA25882122CF4B00DD3B65 /* 岛屿的个数.cpp */,
+				63BA25892122DF5D00DD3B65 /* 生成括号.cpp */,
+			);
+			path = "中级算法";
+			sourceTree = "<group>";
+		};
+		6384538120FED30E00A9518C = {
+			isa = PBXGroup;
+			children = (
+				63BA258B212420E000DD3B65 /* 初级算法 */,
+				636838D5211943FC0091021A /* 中级算法 */,
+				636838D42119424F0091021A /* aaa */,
+			);
+			sourceTree = "<group>";
+		};
+		63BA258B212420E000DD3B65 /* 初级算法 */ = {
+			isa = PBXGroup;
+			children = (
 				63591383210C1E4600C1D38F /* 合并两个有序数组.cpp */,
+				6384538C20FED7D700A9518C /* 买卖股票的最佳时机 II.cpp */,
 				63591384210C3C3200C1D38F /* 第一个错误的版本.cpp */,
 				63591396210EAA7E00C1D38F /* 爬楼梯.cpp */,
 				6384538D20FED81A00A9518C /* 旋转数组.cpp */,
@@ -131,38 +170,7 @@
 				6384538920FED63F00A9518C /* 电话号码的字母组合.cpp */,
 				630E8A61211C191800B2BD56 /* 递增的三元子序列.cpp */,
 			);
-			name = "初级算法";
-			path = "New Group";
-			sourceTree = "<group>";
-		};
-		636838D5211943FC0091021A /* 中级算法 */ = {
-			isa = PBXGroup;
-			children = (
-				63BA257421217B6300DD3B65 /* 从前序与中序遍历序列构造二叉树.cpp */,
-				63BA257321217B6200DD3B65 /* 二叉树的锯齿形层次遍历.cpp */,
-				63BA257621217B6300DD3B65 /* 相交链表.cpp */,
-				63BA257521217B6300DD3B65 /* 中序遍历二叉树.cpp */,
-				636838D6211949090091021A /* 三数之和.cpp */,
-				636838D7211981530091021A /* 矩阵置零.cpp */,
-				636838D8211A87000091021A /* 字谜分组.cpp */,
-				636838D9211A90260091021A /* 无重复字符的最长子串.cpp */,
-				636838DA211BD6FF0091021A /* 最长回文子串.cpp */,
-				63356BF1211D283F00B6FBCC /* 两数相加.cpp */,
-				63356BF2211D328500B6FBCC /* 奇偶链表.cpp */,
-				63BA257721217B8D00DD3B65 /* 每个节点的右向指针.cpp */,
-				63BA257821217D0600DD3B65 /* 二叉搜索树中第K小的元素.cpp */,
-				63BA25882122CF4B00DD3B65 /* 岛屿的个数.cpp */,
-			);
-			path = "中级算法";
-			sourceTree = "<group>";
-		};
-		6384538120FED30E00A9518C = {
-			isa = PBXGroup;
-			children = (
-				63BA25892122DF5D00DD3B65 /* 生成括号.cpp */,
-				636838D5211943FC0091021A /* 中级算法 */,
-				636838D42119424F0091021A /* 初级算法 */,
-			);
+			path = "初级算法";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
