@@ -70,6 +70,8 @@
 		63BA25892122DF5D00DD3B65 /* 生成括号.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "生成括号.cpp"; sourceTree = "<group>"; };
 		63BA258C212422D500DD3B65 /* 全排列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "全排列.cpp"; sourceTree = "<group>"; };
 		63BA258D21242D4A00DD3B65 /* 子集.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "子集.cpp"; sourceTree = "<group>"; };
+		63BA25B02126C54A00DD3B65 /* 单词搜索.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "单词搜索.cpp"; sourceTree = "<group>"; };
+		63BA25B12126C54A00DD3B65 /* 颜色分类.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "颜色分类.cpp"; sourceTree = "<group>"; };
 		63FA08022100643500AD5AB4 /* 加一.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "加一.cpp"; sourceTree = "<group>"; };
 		63FA08182100852700AD5AB4 /* 移动零.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "移动零.cpp"; sourceTree = "<group>"; };
 		63FA081B2101B0FE00AD5AB4 /* 两数之和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "两数之和.cpp"; sourceTree = "<group>"; };
@@ -89,6 +91,8 @@
 		636838D5211943FC0091021A /* 中级算法 */ = {
 			isa = PBXGroup;
 			children = (
+				63BA25B02126C54A00DD3B65 /* 单词搜索.cpp */,
+				63BA25B12126C54A00DD3B65 /* 颜色分类.cpp */,
 				63BA257421217B6300DD3B65 /* 从前序与中序遍历序列构造二叉树.cpp */,
 				63BA257321217B6200DD3B65 /* 二叉树的锯齿形层次遍历.cpp */,
 				63BA257621217B6300DD3B65 /* 相交链表.cpp */,
