@@ -8,7 +8,7 @@
 #include <stdio.h>
 
 //快排思想
-class Finder
+class Solution
 {
 public:
     int partition(vector<int>&a, int low, int high)
@@ -33,19 +33,18 @@ public:
     int findKth(vector<int>& a, int low, int high, int k)
     {
         int p = partition(a, low, high);
-        if (k == p - low + 1)
+        if (k == high - p + 1)
             return a[p];
         
-        else if (k - 1 < p - low)
-            return findKth(a, low, p - 1, k);
-        
+        else if (k - 1 < high - p)
+            return findKth(a, p + 1, high, k);
         else
-            return findKth(a, p + 1, high, k - p + low - 1);
+            return findKth(a, low, p - 1, k - high + p - 1);
     }
     
-    int findKth(vector<int> a, int n, int K)
+    int findKthLargest(vector<int>& nums, int k)
     {
-        return findKth(a, 0, n - 1, K);
+        return findKth(nums, 0, nums.size() - 1, k);
     }
     
 };
