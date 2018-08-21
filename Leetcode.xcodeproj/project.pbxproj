@@ -31,6 +31,7 @@
 		632257F4211002CF0013EBBA /* 打家劫舍.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "打家劫舍.cpp"; sourceTree = "<group>"; };
 		632257F521100E180013EBBA /* 打乱数组.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "打乱数组.cpp"; sourceTree = "<group>"; };
 		632D14BC212BA5280009D433 /* 寻找峰值.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "寻找峰值.cpp"; sourceTree = "<group>"; };
+		632D14BD212BA54E0009D433 /* 在排序数组中查找元素的第一个和最后一个位置.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "在排序数组中查找元素的第一个和最后一个位置.cpp"; sourceTree = "<group>"; };
 		63356BF1211D283F00B6FBCC /* 两数相加.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "两数相加.cpp"; sourceTree = "<group>"; };
 		63356BF2211D328500B6FBCC /* 奇偶链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "奇偶链表.cpp"; sourceTree = "<group>"; };
 		6339F413211158B800450689 /* 最小栈.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "最小栈.cpp"; sourceTree = "<group>"; };
@@ -116,6 +117,7 @@
 				63BA258D21242D4A00DD3B65 /* 子集.cpp */,
 				63BA25B22126C57E00DD3B65 /* 前K个高频元素.cpp */,
 				63BA25B32126CDA200DD3B65 /* 数组中的第K个最大元素.cpp */,
+				632D14BD212BA54E0009D433 /* 在排序数组中查找元素的第一个和最后一个位置.cpp */,
 			);
 			path = "中级算法";
 			sourceTree = "<group>";
