@@ -76,6 +76,7 @@
 		63BA25B12126C54A00DD3B65 /* 颜色分类.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "颜色分类.cpp"; sourceTree = "<group>"; };
 		63BA25B22126C57E00DD3B65 /* 前K个高频元素.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "前K个高频元素.cpp"; sourceTree = "<group>"; };
 		63BA25B32126CDA200DD3B65 /* 数组中的第K个最大元素.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "数组中的第K个最大元素.cpp"; sourceTree = "<group>"; };
+		63D5C82721312C9100FE8C16 /* Insert Delete GetRandom O(1).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Insert Delete GetRandom O(1).cpp"; sourceTree = "<group>"; };
 		63FA08022100643500AD5AB4 /* 加一.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "加一.cpp"; sourceTree = "<group>"; };
 		63FA08182100852700AD5AB4 /* 移动零.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "移动零.cpp"; sourceTree = "<group>"; };
 		63FA081B2101B0FE00AD5AB4 /* 两数之和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "两数之和.cpp"; sourceTree = "<group>"; };
@@ -84,14 +85,6 @@
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
-		636838D42119424F0091021A /* aaa */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = aaa;
-			path = "New Group";
-			sourceTree = "<group>";
-		};
 		636838D5211943FC0091021A /* 中级算法 */ = {
 			isa = PBXGroup;
 			children = (
@@ -118,6 +111,7 @@
 				63BA25B22126C57E00DD3B65 /* 前K个高频元素.cpp */,
 				63BA25B32126CDA200DD3B65 /* 数组中的第K个最大元素.cpp */,
 				632D14BD212BA54E0009D433 /* 在排序数组中查找元素的第一个和最后一个位置.cpp */,
+				63D5C82721312C9100FE8C16 /* Insert Delete GetRandom O(1).cpp */,
 			);
 			path = "中级算法";
 			sourceTree = "<group>";
@@ -127,7 +121,6 @@
 			children = (
 				63BA258B212420E000DD3B65 /* 初级算法 */,
 				636838D5211943FC0091021A /* 中级算法 */,
-				636838D42119424F0091021A /* aaa */,
 			);
 			sourceTree = "<group>";
 		};
