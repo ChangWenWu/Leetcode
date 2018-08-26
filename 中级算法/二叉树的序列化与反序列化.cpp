@@ -8,8 +8,10 @@
 
 #include <stdio.h>
 
+//序列化：递归前序遍历二叉树
+//反序列化：递归算法，使用index记录遍历字符串的位置，遇到#则为空节点（注意处理负数）
 class Codec {
-    public:
+public:
     
     // Encodes a tree to a single string.
     string serialize(TreeNode* root) {
@@ -41,10 +43,13 @@ class Codec {
         }
         
         int value = 0;
+        bool bNgtv = false;
         while (data[index] != ' '){
-            value = value * 10 + (data[index] - '0');
+            if(data[index] == '-') bNgtv = true;
+            else value = value * 10 + (data[index] - '0');
             index++;
         }
+        if(bNgtv) value = 0 - value;
         
         TreeNode* root = new TreeNode(value);
         
