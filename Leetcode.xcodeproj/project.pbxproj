@@ -37,6 +37,7 @@
 		6339F413211158B800450689 /* 最小栈.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "最小栈.cpp"; sourceTree = "<group>"; };
 		633A6F8E2133ED8F00E2523D /* Pow(x, n).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Pow(x, n).cpp"; sourceTree = "<group>"; };
 		633A6F8F2133F33000E2523D /* x 的平方根.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "x 的平方根.cpp"; sourceTree = "<group>"; };
+		633A6FA4213696C200E2523D /* 两整数之和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "两整数之和.cpp"; sourceTree = "<group>"; };
 		635913692109B48100C1D38F /* 二叉树的最大深度.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "二叉树的最大深度.cpp"; sourceTree = "<group>"; };
 		63591374210AB43200C1D38F /* 验证二叉搜索树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "验证二叉搜索树.cpp"; sourceTree = "<group>"; };
 		63591375210ABC4400C1D38F /* 对称二叉树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "对称二叉树.cpp"; sourceTree = "<group>"; };
@@ -118,6 +119,7 @@
 				63D5C82821312FDC00FE8C16 /* 快乐数.cpp */,
 				633A6F8E2133ED8F00E2523D /* Pow(x, n).cpp */,
 				633A6F8F2133F33000E2523D /* x 的平方根.cpp */,
+				633A6FA4213696C200E2523D /* 两整数之和.cpp */,
 			);
 			path = "中级算法";
 			sourceTree = "<group>";
