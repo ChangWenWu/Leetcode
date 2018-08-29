@@ -38,6 +38,17 @@
 		633A6F8E2133ED8F00E2523D /* Pow(x, n).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Pow(x, n).cpp"; sourceTree = "<group>"; };
 		633A6F8F2133F33000E2523D /* x 的平方根.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "x 的平方根.cpp"; sourceTree = "<group>"; };
 		633A6FA4213696C200E2523D /* 两整数之和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "两整数之和.cpp"; sourceTree = "<group>"; };
+		633A6FA52136976D00E2523D /* 跳跃游戏.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "跳跃游戏.cpp"; sourceTree = "<group>"; };
+		633A6FA62136976E00E2523D /* Excel表列序号.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Excel表列序号.cpp"; sourceTree = "<group>"; };
+		633A6FA72136976E00E2523D /* 二叉树的序列化与反序列化.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "二叉树的序列化与反序列化.cpp"; sourceTree = "<group>"; };
+		633A6FA82136976E00E2523D /* 零钱兑换.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "零钱兑换.cpp"; sourceTree = "<group>"; };
+		633A6FA92136976F00E2523D /* 最长上升子序列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "最长上升子序列.cpp"; sourceTree = "<group>"; };
+		633A6FAA2136976F00E2523D /* 搜索旋转排序数组.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "搜索旋转排序数组.cpp"; sourceTree = "<group>"; };
+		633A6FAB2136976F00E2523D /* 不同路径.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "不同路径.cpp"; sourceTree = "<group>"; };
+		633A6FAC2136976F00E2523D /* 搜索二维矩阵 II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "搜索二维矩阵 II.cpp"; sourceTree = "<group>"; };
+		633A6FAD2136977000E2523D /* 两数相除.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "两数相除.cpp"; sourceTree = "<group>"; };
+		633A6FAE2136977000E2523D /* 阶乘后的零.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "阶乘后的零.cpp"; sourceTree = "<group>"; };
+		633A6FAF2136977000E2523D /* 分数到小数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "分数到小数.cpp"; sourceTree = "<group>"; };
 		635913692109B48100C1D38F /* 二叉树的最大深度.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "二叉树的最大深度.cpp"; sourceTree = "<group>"; };
 		63591374210AB43200C1D38F /* 验证二叉搜索树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "验证二叉搜索树.cpp"; sourceTree = "<group>"; };
 		63591375210ABC4400C1D38F /* 对称二叉树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "对称二叉树.cpp"; sourceTree = "<group>"; };
@@ -92,6 +103,17 @@
 		636838D5211943FC0091021A /* 中级算法 */ = {
 			isa = PBXGroup;
 			children = (
+				633A6FAB2136976F00E2523D /* 不同路径.cpp */,
+				633A6FA72136976E00E2523D /* 二叉树的序列化与反序列化.cpp */,
+				633A6FAF2136977000E2523D /* 分数到小数.cpp */,
+				633A6FAE2136977000E2523D /* 阶乘后的零.cpp */,
+				633A6FAD2136977000E2523D /* 两数相除.cpp */,
+				633A6FA82136976E00E2523D /* 零钱兑换.cpp */,
+				633A6FAC2136976F00E2523D /* 搜索二维矩阵 II.cpp */,
+				633A6FAA2136976F00E2523D /* 搜索旋转排序数组.cpp */,
+				633A6FA52136976D00E2523D /* 跳跃游戏.cpp */,
+				633A6FA92136976F00E2523D /* 最长上升子序列.cpp */,
+				633A6FA62136976E00E2523D /* Excel表列序号.cpp */,
 				632D14BC212BA5280009D433 /* 寻找峰值.cpp */,
 				63BA25B02126C54A00DD3B65 /* 单词搜索.cpp */,
 				63BA25B12126C54A00DD3B65 /* 颜色分类.cpp */,
