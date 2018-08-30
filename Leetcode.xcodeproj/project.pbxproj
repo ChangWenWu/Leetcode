@@ -93,6 +93,7 @@
 		63BA25B32126CDA200DD3B65 /* 数组中的第K个最大元素.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "数组中的第K个最大元素.cpp"; sourceTree = "<group>"; };
 		63D5C82721312C9100FE8C16 /* Insert Delete GetRandom O(1).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Insert Delete GetRandom O(1).cpp"; sourceTree = "<group>"; };
 		63D5C82821312FDC00FE8C16 /* 快乐数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "快乐数.cpp"; sourceTree = "<group>"; };
+		63F470052137EF2E00D94D5C /* 求众数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "求众数.cpp"; sourceTree = "<group>"; };
 		63FA08022100643500AD5AB4 /* 加一.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "加一.cpp"; sourceTree = "<group>"; };
 		63FA08182100852700AD5AB4 /* 移动零.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "移动零.cpp"; sourceTree = "<group>"; };
 		63FA081B2101B0FE00AD5AB4 /* 两数之和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "两数之和.cpp"; sourceTree = "<group>"; };
@@ -144,6 +145,7 @@
 				633A6F8F2133F33000E2523D /* x 的平方根.cpp */,
 				633A6FA4213696C200E2523D /* 两整数之和.cpp */,
 				633A6FB02136988600E2523D /* 逆波兰表达式求值.cpp */,
+				63F470052137EF2E00D94D5C /* 求众数.cpp */,
 			);
 			path = "中级算法";
 			sourceTree = "<group>";
