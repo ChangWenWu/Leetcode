@@ -26,3 +26,22 @@ public:
         }
     }
 };
+
+//优化算法:不做元素交换，直接将每一个非零元素依次赋值到数组前端，遍历赋值之后将剩下的元素置0
+class Solution {
+public:
+    void moveZeroes(vector<int>& nums) {
+        int index = 0;
+        int len = nums.size();
+        for(int i = 0; i < len; i++){
+            if(nums[i] != 0){
+                nums[index] = nums[i];
+                index++;
+            }
+        }
+        while(index < len){
+            nums[index] = 0;
+            index++;
+        }
+    }
+};
