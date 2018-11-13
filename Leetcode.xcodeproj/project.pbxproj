@@ -101,6 +101,7 @@
 		633A3338219AC6B4009C8522 /* 跳跃游戏.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 633A32DA219AC6B4009C8522 /* 跳跃游戏.cpp */; };
 		633A3339219AC6B4009C8522 /* x 的平方根.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 633A32DB219AC6B4009C8522 /* x 的平方根.cpp */; };
 		633A333A219AC6B4009C8522 /* 二叉树的锯齿形层次遍历.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 633A32DC219AC6B4009C8522 /* 二叉树的锯齿形层次遍历.cpp */; };
+		633A3354219ACF9E009C8522 /* 2. Add Two Numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 633A3353219ACF9E009C8522 /* 2. Add Two Numbers.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -212,6 +213,7 @@
 		633A32DA219AC6B4009C8522 /* 跳跃游戏.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "跳跃游戏.cpp"; sourceTree = "<group>"; };
 		633A32DB219AC6B4009C8522 /* x 的平方根.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "x 的平方根.cpp"; sourceTree = "<group>"; };
 		633A32DC219AC6B4009C8522 /* 二叉树的锯齿形层次遍历.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "二叉树的锯齿形层次遍历.cpp"; sourceTree = "<group>"; };
+		633A3353219ACF9E009C8522 /* 2. Add Two Numbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2. Add Two Numbers.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -306,6 +308,7 @@
 			isa = PBXGroup;
 			children = (
 				633A32B1219AC6B3009C8522 /* 1. Two Sum.cpp */,
+				633A3353219ACF9E009C8522 /* 2. Add Two Numbers.cpp */,
 			);
 			path = "顺序刷题";
 			sourceTree = "<group>";
@@ -504,6 +507,7 @@
 				633A331E219AC6B4009C8522 /* 搜索旋转排序数组.cpp in Sources */,
 				633A3303219AC6B4009C8522 /* 汉明距离.cpp in Sources */,
 				633A3311219AC6B4009C8522 /* 逆波兰表达式求值.cpp in Sources */,
+				633A3354219ACF9E009C8522 /* 2. Add Two Numbers.cpp in Sources */,
 				633A331F219AC6B4009C8522 /* 奇偶链表.cpp in Sources */,
 				633A32E9219AC6B4009C8522 /* 电话号码的字母组合.cpp in Sources */,
 				633A32F4219AC6B4009C8522 /* 加一.cpp in Sources */,
