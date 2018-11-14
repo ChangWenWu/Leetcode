@@ -102,6 +102,7 @@
 		633A3339219AC6B4009C8522 /* x 的平方根.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 633A32DB219AC6B4009C8522 /* x 的平方根.cpp */; };
 		633A333A219AC6B4009C8522 /* 二叉树的锯齿形层次遍历.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 633A32DC219AC6B4009C8522 /* 二叉树的锯齿形层次遍历.cpp */; };
 		633A3354219ACF9E009C8522 /* 2. Add Two Numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 633A3353219ACF9E009C8522 /* 2. Add Two Numbers.cpp */; };
+		633A3356219BC71A009C8522 /* 3. Longest Substring Without Repeating Characters.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 633A3355219BC71A009C8522 /* 3. Longest Substring Without Repeating Characters.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -214,6 +215,7 @@
 		633A32DB219AC6B4009C8522 /* x 的平方根.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "x 的平方根.cpp"; sourceTree = "<group>"; };
 		633A32DC219AC6B4009C8522 /* 二叉树的锯齿形层次遍历.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "二叉树的锯齿形层次遍历.cpp"; sourceTree = "<group>"; };
 		633A3353219ACF9E009C8522 /* 2. Add Two Numbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2. Add Two Numbers.cpp"; sourceTree = "<group>"; };
+		633A3355219BC71A009C8522 /* 3. Longest Substring Without Repeating Characters.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3. Longest Substring Without Repeating Characters.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -309,6 +311,7 @@
 			children = (
 				633A32B1219AC6B3009C8522 /* 1. Two Sum.cpp */,
 				633A3353219ACF9E009C8522 /* 2. Add Two Numbers.cpp */,
+				633A3355219BC71A009C8522 /* 3. Longest Substring Without Repeating Characters.cpp */,
 			);
 			path = "顺序刷题";
 			sourceTree = "<group>";
@@ -441,6 +444,7 @@
 				633A32E4219AC6B4009C8522 /* 移动零.cpp in Sources */,
 				633A32F7219AC6B4009C8522 /* 存在重复.cpp in Sources */,
 				633A3338219AC6B4009C8522 /* 跳跃游戏.cpp in Sources */,
+				633A3356219BC71A009C8522 /* 3. Longest Substring Without Repeating Characters.cpp in Sources */,
 				633A3330219AC6B4009C8522 /* 中序遍历二叉树.cpp in Sources */,
 				633A3309219AC6B4009C8522 /* 回文链表.cpp in Sources */,
 				633A32EE219AC6B4009C8522 /* 帕斯卡三角形.cpp in Sources */,
