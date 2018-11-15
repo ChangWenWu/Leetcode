@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		462F9E76219D43C7003C18D4 /* 6. ZigZag Conversion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 462F9E75219D43C7003C18D4 /* 6. ZigZag Conversion.cpp */; };
 		633A32DD219AC6B4009C8522 /* 对称二叉树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 633A327D219AC6B3009C8522 /* 对称二叉树.cpp */; };
 		633A32DE219AC6B4009C8522 /* 数数并说.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 633A327E219AC6B3009C8522 /* 数数并说.cpp */; };
 		633A32DF219AC6B4009C8522 /* 旋转图像.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 633A327F219AC6B3009C8522 /* 旋转图像.cpp */; };
@@ -120,6 +121,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		462F9E75219D43C7003C18D4 /* 6. ZigZag Conversion.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "6. ZigZag Conversion.cpp"; sourceTree = "<group>"; };
 		633A31A9219AC634009C8522 /* Leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		633A327B219AC6B3009C8522 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		633A327D219AC6B3009C8522 /* 对称二叉树.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "对称二叉树.cpp"; sourceTree = "<group>"; };
@@ -318,6 +320,7 @@
 				633A3355219BC71A009C8522 /* 3. Longest Substring Without Repeating Characters.cpp */,
 				63EB168F219D17470010CFC7 /* 4. Median of two sorted arrays.cpp */,
 				63EB1690219D17470010CFC7 /* 5.Longest palindromic substring.cpp */,
+				462F9E75219D43C7003C18D4 /* 6. ZigZag Conversion.cpp */,
 			);
 			path = "顺序刷题";
 			sourceTree = "<group>";
@@ -509,6 +512,7 @@
 				633A32EC219AC6B4009C8522 /* 删除排序数组中的重复项.cpp in Sources */,
 				633A3310219AC6B4009C8522 /* 1. Two Sum.cpp in Sources */,
 				633A330D219AC6B4009C8522 /* 颠倒二进制位.cpp in Sources */,
+				462F9E76219D43C7003C18D4 /* 6. ZigZag Conversion.cpp in Sources */,
 				633A32EF219AC6B4009C8522 /* 字符串转整数.cpp in Sources */,
 				633A3336219AC6B4009C8522 /* 子集.cpp in Sources */,
 				633A32E0219AC6B4009C8522 /* 有效的数独.cpp in Sources */,
