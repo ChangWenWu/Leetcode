@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		462F9E76219D43C7003C18D4 /* 6. ZigZag Conversion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 462F9E75219D43C7003C18D4 /* 6. ZigZag Conversion.cpp */; };
 		462F9E78219D4C2B003C18D4 /* 7. Reverse Integer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 462F9E77219D4C2B003C18D4 /* 7. Reverse Integer.cpp */; };
+		462F9E7A219D528B003C18D4 /* 8. String to Integer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 462F9E79219D528B003C18D4 /* 8. String to Integer.cpp */; };
 		633A32DD219AC6B4009C8522 /* 对称二叉树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 633A327D219AC6B3009C8522 /* 对称二叉树.cpp */; };
 		633A32DE219AC6B4009C8522 /* 数数并说.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 633A327E219AC6B3009C8522 /* 数数并说.cpp */; };
 		633A32DF219AC6B4009C8522 /* 旋转图像.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 633A327F219AC6B3009C8522 /* 旋转图像.cpp */; };
@@ -124,6 +125,7 @@
 /* Begin PBXFileReference section */
 		462F9E75219D43C7003C18D4 /* 6. ZigZag Conversion.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "6. ZigZag Conversion.cpp"; sourceTree = "<group>"; };
 		462F9E77219D4C2B003C18D4 /* 7. Reverse Integer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "7. Reverse Integer.cpp"; sourceTree = "<group>"; };
+		462F9E79219D528B003C18D4 /* 8. String to Integer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "8. String to Integer.cpp"; sourceTree = "<group>"; };
 		633A31A9219AC634009C8522 /* Leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		633A327B219AC6B3009C8522 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		633A327D219AC6B3009C8522 /* 对称二叉树.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "对称二叉树.cpp"; sourceTree = "<group>"; };
@@ -324,6 +326,7 @@
 				63EB1690219D17470010CFC7 /* 5.Longest palindromic substring.cpp */,
 				462F9E75219D43C7003C18D4 /* 6. ZigZag Conversion.cpp */,
 				462F9E77219D4C2B003C18D4 /* 7. Reverse Integer.cpp */,
+				462F9E79219D528B003C18D4 /* 8. String to Integer.cpp */,
 			);
 			path = "顺序刷题";
 			sourceTree = "<group>";
@@ -452,6 +455,7 @@
 				633A32E3219AC6B4009C8522 /* 买卖股票的最佳时机.cpp in Sources */,
 				633A3335219AC6B4009C8522 /* 二叉搜索树中第K小的元素.cpp in Sources */,
 				633A32FC219AC6B4009C8522 /* 字符串中的第一个唯一字符.cpp in Sources */,
+				462F9E7A219D528B003C18D4 /* 8. String to Integer.cpp in Sources */,
 				633A331A219AC6B4009C8522 /* 在排序数组中查找元素的第一个和最后一个位置.cpp in Sources */,
 				633A332E219AC6B4009C8522 /* 两数相加.cpp in Sources */,
 				633A32E4219AC6B4009C8522 /* 移动零.cpp in Sources */,
