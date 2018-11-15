@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 48;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -103,6 +103,8 @@
 		633A333A219AC6B4009C8522 /* 二叉树的锯齿形层次遍历.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 633A32DC219AC6B4009C8522 /* 二叉树的锯齿形层次遍历.cpp */; };
 		633A3354219ACF9E009C8522 /* 2. Add Two Numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 633A3353219ACF9E009C8522 /* 2. Add Two Numbers.cpp */; };
 		633A3356219BC71A009C8522 /* 3. Longest Substring Without Repeating Characters.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 633A3355219BC71A009C8522 /* 3. Longest Substring Without Repeating Characters.cpp */; };
+		63EB1691219D17470010CFC7 /* 4. Median of two sorted arrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63EB168F219D17470010CFC7 /* 4. Median of two sorted arrays.cpp */; };
+		63EB1692219D17470010CFC7 /* 5.Longest palindromic substring.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63EB1690219D17470010CFC7 /* 5.Longest palindromic substring.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -216,6 +218,8 @@
 		633A32DC219AC6B4009C8522 /* 二叉树的锯齿形层次遍历.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "二叉树的锯齿形层次遍历.cpp"; sourceTree = "<group>"; };
 		633A3353219ACF9E009C8522 /* 2. Add Two Numbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2. Add Two Numbers.cpp"; sourceTree = "<group>"; };
 		633A3355219BC71A009C8522 /* 3. Longest Substring Without Repeating Characters.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3. Longest Substring Without Repeating Characters.cpp"; sourceTree = "<group>"; };
+		63EB168F219D17470010CFC7 /* 4. Median of two sorted arrays.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "4. Median of two sorted arrays.cpp"; sourceTree = "<group>"; };
+		63EB1690219D17470010CFC7 /* 5.Longest palindromic substring.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "5.Longest palindromic substring.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -312,6 +316,8 @@
 				633A32B1219AC6B3009C8522 /* 1. Two Sum.cpp */,
 				633A3353219ACF9E009C8522 /* 2. Add Two Numbers.cpp */,
 				633A3355219BC71A009C8522 /* 3. Longest Substring Without Repeating Characters.cpp */,
+				63EB168F219D17470010CFC7 /* 4. Median of two sorted arrays.cpp */,
+				63EB1690219D17470010CFC7 /* 5.Longest palindromic substring.cpp */,
 			);
 			path = "顺序刷题";
 			sourceTree = "<group>";
@@ -396,11 +402,12 @@
 				TargetAttributes = {
 					633A31A8219AC634009C8522 = {
 						CreatedOnToolsVersion = 10.0;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
 			buildConfigurationList = 633A31A4219AC634009C8522 /* Build configuration list for PBXProject "Leetcode" */;
-			compatibilityVersion = "Xcode 9.3";
+			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -465,6 +472,7 @@
 				633A32DE219AC6B4009C8522 /* 数数并说.cpp in Sources */,
 				633A330A219AC6B4009C8522 /* 反转链表.cpp in Sources */,
 				633A32FF219AC6B4009C8522 /* 合并两个有序数组.cpp in Sources */,
+				63EB1692219D17470010CFC7 /* 5.Longest palindromic substring.cpp in Sources */,
 				633A3301219AC6B4009C8522 /* 缺失数字.cpp in Sources */,
 				633A333A219AC6B4009C8522 /* 二叉树的锯齿形层次遍历.cpp in Sources */,
 				633A332B219AC6B4009C8522 /* 求众数.cpp in Sources */,
@@ -491,6 +499,7 @@
 				633A330F219AC6B4009C8522 /* 删除链表中的节点.cpp in Sources */,
 				633A3326219AC6B4009C8522 /* 寻找峰值.cpp in Sources */,
 				633A3329219AC6B4009C8522 /* 每个节点的右向指针.cpp in Sources */,
+				63EB1691219D17470010CFC7 /* 4. Median of two sorted arrays.cpp in Sources */,
 				633A32E2219AC6B4009C8522 /* 打家劫舍.cpp in Sources */,
 				633A3316219AC6B4009C8522 /* Pow(x, n).cpp in Sources */,
 				633A32E7219AC6B4009C8522 /* 递增的三元子序列.cpp in Sources */,
