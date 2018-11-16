@@ -14,20 +14,21 @@
 using namespace std;
 
 class Solution {
-public:
+  public:
     int myAtoi(string str) {
         bool bNeg = false;
         double ret = 0;
-        for(int i = 0; i < str.size(); i++){
-            if(str[i] == ' ') continue;
-            if(str[i] == '-' || str[i] == '+' || (str[i] >= '0' && str[i] <= '9')){
-                if(str[i] == '-' || str[i] == '+'){
+        for (int i = 0; i < str.size(); i++) {
+            if (str[i] == ' ')
+                continue;
+            if (str[i] == '-' || str[i] == '+' || (str[i] >= '0' && str[i] <= '9')) {
+                if (str[i] == '-' || str[i] == '+') {
                     bNeg = (str[i] == '-');
                     i++;
                 }
-                while(i < str.size() && str[i] >= '0' && str[i] <= '9'){
+                while (i < str.size() && str[i] >= '0' && str[i] <= '9') {
                     ret = ret * 10 + (str[i] - '0');
-                    if(ret > INT_MAX){
+                    if (ret > INT_MAX) {
                         break;
                     }
                     i++;
@@ -37,9 +38,12 @@ public:
                 break;
             }
         }
-        if(bNeg) ret = 0 - ret;
-        if(ret > INT_MAX) return INT_MAX;
-        if(ret < INT_MIN) return INT_MIN;
+        if (bNeg)
+            ret = 0 - ret;
+        if (ret > INT_MAX)
+            return INT_MAX;
+        if (ret < INT_MIN)
+            return INT_MIN;
         return ret;
     }
 };

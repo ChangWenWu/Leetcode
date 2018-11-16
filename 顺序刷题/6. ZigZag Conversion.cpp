@@ -14,17 +14,18 @@
 using namespace std;
 
 class Solution {
-public:
+  public:
     string convert(string s, int numRows) {
-        string result="";
-        if(numRows == 1) return s;
-        int count = (int)s.size();
+        string result = "";
+        if (numRows == 1)
+            return s;
+        int count = (int) s.size();
         int offset = 2 * numRows - 2; // 偏移量
-        for(int i = 0; i < numRows; i++){
-            for(int j = i; j < count; j += offset){
+        for (int i = 0; i < numRows; i++) {
+            for (int j = i; j < count; j += offset) {
                 // 先打印出竖直列的数字，再打印该竖直列的下一个斜列的数字（如果存在的话）
                 result.push_back(s[j]);
-                if(i != 0 && i != numRows - 1 && j + offset - 2 * i < count){
+                if (i != 0 && i != numRows - 1 && j + offset - 2 * i < count) {
                     result.push_back(s[j + offset - 2 * i]);
                 }
             }
