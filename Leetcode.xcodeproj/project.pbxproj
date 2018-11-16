@@ -107,6 +107,7 @@
 		633A3354219ACF9E009C8522 /* 2. Add Two Numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 633A3353219ACF9E009C8522 /* 2. Add Two Numbers.cpp */; };
 		633A3356219BC71A009C8522 /* 3. Longest Substring Without Repeating Characters.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 633A3355219BC71A009C8522 /* 3. Longest Substring Without Repeating Characters.cpp */; };
 		6355D6FC219E649700DE0647 /* 9. Palindrome Number.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6355D6FB219E649700DE0647 /* 9. Palindrome Number.cpp */; };
+		6355D6FE219E6C0600DE0647 /* 10. Regular Expression Matching.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6355D6FD219E6C0600DE0647 /* 10. Regular Expression Matching.cpp */; };
 		63EB1691219D17470010CFC7 /* 4. Median of two sorted arrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63EB168F219D17470010CFC7 /* 4. Median of two sorted arrays.cpp */; };
 		63EB1692219D17470010CFC7 /* 5.Longest palindromic substring.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63EB1690219D17470010CFC7 /* 5.Longest palindromic substring.cpp */; };
 /* End PBXBuildFile section */
@@ -226,6 +227,7 @@
 		633A3353219ACF9E009C8522 /* 2. Add Two Numbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2. Add Two Numbers.cpp"; sourceTree = "<group>"; };
 		633A3355219BC71A009C8522 /* 3. Longest Substring Without Repeating Characters.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3. Longest Substring Without Repeating Characters.cpp"; sourceTree = "<group>"; };
 		6355D6FB219E649700DE0647 /* 9. Palindrome Number.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "9. Palindrome Number.cpp"; sourceTree = "<group>"; };
+		6355D6FD219E6C0600DE0647 /* 10. Regular Expression Matching.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10. Regular Expression Matching.cpp"; sourceTree = "<group>"; };
 		63EB168F219D17470010CFC7 /* 4. Median of two sorted arrays.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "4. Median of two sorted arrays.cpp"; sourceTree = "<group>"; };
 		63EB1690219D17470010CFC7 /* 5.Longest palindromic substring.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "5.Longest palindromic substring.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -330,6 +332,7 @@
 				462F9E77219D4C2B003C18D4 /* 7. Reverse Integer.cpp */,
 				462F9E79219D528B003C18D4 /* 8. String to Integer.cpp */,
 				6355D6FB219E649700DE0647 /* 9. Palindrome Number.cpp */,
+				6355D6FD219E6C0600DE0647 /* 10. Regular Expression Matching.cpp */,
 			);
 			path = "顺序刷题";
 			sourceTree = "<group>";
@@ -474,6 +477,7 @@
 				633A32E5219AC6B4009C8522 /* 只出现一次的数字.cpp in Sources */,
 				633A32F0219AC6B4009C8522 /* 买卖股票的最佳时机 II.cpp in Sources */,
 				633A32DD219AC6B4009C8522 /* 对称二叉树.cpp in Sources */,
+				6355D6FE219E6C0600DE0647 /* 10. Regular Expression Matching.cpp in Sources */,
 				633A32FA219AC6B4009C8522 /* 二叉树的层次遍历.cpp in Sources */,
 				633A32F8219AC6B4009C8522 /* 验证回文字符串.cpp in Sources */,
 				633A32F2219AC6B4009C8522 /* 打乱数组.cpp in Sources */,
