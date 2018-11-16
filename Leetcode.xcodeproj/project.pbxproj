@@ -109,6 +109,7 @@
 		6355D6FC219E649700DE0647 /* 9. Palindrome Number.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6355D6FB219E649700DE0647 /* 9. Palindrome Number.cpp */; };
 		6355D6FE219E6C0600DE0647 /* 10. Regular Expression Matching.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6355D6FD219E6C0600DE0647 /* 10. Regular Expression Matching.cpp */; };
 		6355D700219E96FC00DE0647 /* 11. Container With Most Water.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6355D6FF219E96FC00DE0647 /* 11. Container With Most Water.cpp */; };
+		6355D702219EAB5F00DE0647 /* 12. Integer to Roman.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6355D701219EAB5F00DE0647 /* 12. Integer to Roman.cpp */; };
 		63EB1691219D17470010CFC7 /* 4. Median of two sorted arrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63EB168F219D17470010CFC7 /* 4. Median of two sorted arrays.cpp */; };
 		63EB1692219D17470010CFC7 /* 5.Longest palindromic substring.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63EB1690219D17470010CFC7 /* 5.Longest palindromic substring.cpp */; };
 /* End PBXBuildFile section */
@@ -230,6 +231,7 @@
 		6355D6FB219E649700DE0647 /* 9. Palindrome Number.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "9. Palindrome Number.cpp"; sourceTree = "<group>"; };
 		6355D6FD219E6C0600DE0647 /* 10. Regular Expression Matching.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10. Regular Expression Matching.cpp"; sourceTree = "<group>"; };
 		6355D6FF219E96FC00DE0647 /* 11. Container With Most Water.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "11. Container With Most Water.cpp"; sourceTree = "<group>"; };
+		6355D701219EAB5F00DE0647 /* 12. Integer to Roman.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "12. Integer to Roman.cpp"; sourceTree = "<group>"; };
 		63EB168F219D17470010CFC7 /* 4. Median of two sorted arrays.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "4. Median of two sorted arrays.cpp"; sourceTree = "<group>"; };
 		63EB1690219D17470010CFC7 /* 5.Longest palindromic substring.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "5.Longest palindromic substring.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -336,6 +338,7 @@
 				6355D6FB219E649700DE0647 /* 9. Palindrome Number.cpp */,
 				6355D6FD219E6C0600DE0647 /* 10. Regular Expression Matching.cpp */,
 				6355D6FF219E96FC00DE0647 /* 11. Container With Most Water.cpp */,
+				6355D701219EAB5F00DE0647 /* 12. Integer to Roman.cpp */,
 			);
 			path = "顺序刷题";
 			sourceTree = "<group>";
@@ -459,6 +462,7 @@
 				633A332A219AC6B4009C8522 /* 生成括号.cpp in Sources */,
 				633A3313219AC6B4009C8522 /* 数组中的第K个最大元素.cpp in Sources */,
 				633A332F219AC6B4009C8522 /* 不同路径.cpp in Sources */,
+				6355D702219EAB5F00DE0647 /* 12. Integer to Roman.cpp in Sources */,
 				633A32EA219AC6B4009C8522 /* 计数质数.cpp in Sources */,
 				6355D6FC219E649700DE0647 /* 9. Palindrome Number.cpp in Sources */,
 				633A32F5219AC6B4009C8522 /* 验证二叉搜索树.cpp in Sources */,
