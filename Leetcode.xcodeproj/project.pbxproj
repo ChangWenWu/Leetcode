@@ -112,6 +112,7 @@
 		6355D702219EAB5F00DE0647 /* 12. Integer to Roman.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6355D701219EAB5F00DE0647 /* 12. Integer to Roman.cpp */; };
 		6355D706219EC16900DE0647 /* 13. Roman to Integer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6355D705219EC16900DE0647 /* 13. Roman to Integer.cpp */; };
 		6355D70821A25C2300DE0647 /* 14. Longest Common Prefix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6355D70721A25C2300DE0647 /* 14. Longest Common Prefix.cpp */; };
+		6355D70A21A2667B00DE0647 /* 15. 3Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6355D70921A2667B00DE0647 /* 15. 3Sum.cpp */; };
 		63EB1691219D17470010CFC7 /* 4. Median of two sorted arrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63EB168F219D17470010CFC7 /* 4. Median of two sorted arrays.cpp */; };
 		63EB1692219D17470010CFC7 /* 5.Longest palindromic substring.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63EB1690219D17470010CFC7 /* 5.Longest palindromic substring.cpp */; };
 /* End PBXBuildFile section */
@@ -236,6 +237,7 @@
 		6355D701219EAB5F00DE0647 /* 12. Integer to Roman.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "12. Integer to Roman.cpp"; sourceTree = "<group>"; };
 		6355D705219EC16900DE0647 /* 13. Roman to Integer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "13. Roman to Integer.cpp"; sourceTree = "<group>"; };
 		6355D70721A25C2300DE0647 /* 14. Longest Common Prefix.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "14. Longest Common Prefix.cpp"; sourceTree = "<group>"; };
+		6355D70921A2667B00DE0647 /* 15. 3Sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "15. 3Sum.cpp"; sourceTree = "<group>"; };
 		63EB168F219D17470010CFC7 /* 4. Median of two sorted arrays.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "4. Median of two sorted arrays.cpp"; sourceTree = "<group>"; };
 		63EB1690219D17470010CFC7 /* 5.Longest palindromic substring.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "5.Longest palindromic substring.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -345,6 +347,7 @@
 				6355D701219EAB5F00DE0647 /* 12. Integer to Roman.cpp */,
 				6355D705219EC16900DE0647 /* 13. Roman to Integer.cpp */,
 				6355D70721A25C2300DE0647 /* 14. Longest Common Prefix.cpp */,
+				6355D70921A2667B00DE0647 /* 15. 3Sum.cpp */,
 			);
 			path = "顺序刷题";
 			sourceTree = "<group>";
@@ -464,6 +467,7 @@
 				633A3324219AC6B4009C8522 /* 字谜分组.cpp in Sources */,
 				633A3323219AC6B4009C8522 /* 快乐数.cpp in Sources */,
 				633A3321219AC6B4009C8522 /* 矩阵置零.cpp in Sources */,
+				6355D70A21A2667B00DE0647 /* 15. 3Sum.cpp in Sources */,
 				633A332C219AC6B4009C8522 /* 三数之和.cpp in Sources */,
 				633A332A219AC6B4009C8522 /* 生成括号.cpp in Sources */,
 				633A3313219AC6B4009C8522 /* 数组中的第K个最大元素.cpp in Sources */,
