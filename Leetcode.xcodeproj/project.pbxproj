@@ -110,6 +110,8 @@
 		6355D6FE219E6C0600DE0647 /* 10. Regular Expression Matching.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6355D6FD219E6C0600DE0647 /* 10. Regular Expression Matching.cpp */; };
 		6355D700219E96FC00DE0647 /* 11. Container With Most Water.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6355D6FF219E96FC00DE0647 /* 11. Container With Most Water.cpp */; };
 		6355D702219EAB5F00DE0647 /* 12. Integer to Roman.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6355D701219EAB5F00DE0647 /* 12. Integer to Roman.cpp */; };
+		6355D706219EC16900DE0647 /* 13. Roman to Integer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6355D705219EC16900DE0647 /* 13. Roman to Integer.cpp */; };
+		6355D70821A25C2300DE0647 /* 14. Longest Common Prefix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6355D70721A25C2300DE0647 /* 14. Longest Common Prefix.cpp */; };
 		63EB1691219D17470010CFC7 /* 4. Median of two sorted arrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63EB168F219D17470010CFC7 /* 4. Median of two sorted arrays.cpp */; };
 		63EB1692219D17470010CFC7 /* 5.Longest palindromic substring.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63EB1690219D17470010CFC7 /* 5.Longest palindromic substring.cpp */; };
 /* End PBXBuildFile section */
@@ -232,6 +234,8 @@
 		6355D6FD219E6C0600DE0647 /* 10. Regular Expression Matching.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10. Regular Expression Matching.cpp"; sourceTree = "<group>"; };
 		6355D6FF219E96FC00DE0647 /* 11. Container With Most Water.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "11. Container With Most Water.cpp"; sourceTree = "<group>"; };
 		6355D701219EAB5F00DE0647 /* 12. Integer to Roman.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "12. Integer to Roman.cpp"; sourceTree = "<group>"; };
+		6355D705219EC16900DE0647 /* 13. Roman to Integer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "13. Roman to Integer.cpp"; sourceTree = "<group>"; };
+		6355D70721A25C2300DE0647 /* 14. Longest Common Prefix.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "14. Longest Common Prefix.cpp"; sourceTree = "<group>"; };
 		63EB168F219D17470010CFC7 /* 4. Median of two sorted arrays.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "4. Median of two sorted arrays.cpp"; sourceTree = "<group>"; };
 		63EB1690219D17470010CFC7 /* 5.Longest palindromic substring.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "5.Longest palindromic substring.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -339,6 +343,8 @@
 				6355D6FD219E6C0600DE0647 /* 10. Regular Expression Matching.cpp */,
 				6355D6FF219E96FC00DE0647 /* 11. Container With Most Water.cpp */,
 				6355D701219EAB5F00DE0647 /* 12. Integer to Roman.cpp */,
+				6355D705219EC16900DE0647 /* 13. Roman to Integer.cpp */,
+				6355D70721A25C2300DE0647 /* 14. Longest Common Prefix.cpp */,
 			);
 			path = "顺序刷题";
 			sourceTree = "<group>";
@@ -500,6 +506,7 @@
 				633A32FF219AC6B4009C8522 /* 合并两个有序数组.cpp in Sources */,
 				63EB1692219D17470010CFC7 /* 5.Longest palindromic substring.cpp in Sources */,
 				633A3301219AC6B4009C8522 /* 缺失数字.cpp in Sources */,
+				6355D706219EC16900DE0647 /* 13. Roman to Integer.cpp in Sources */,
 				633A333A219AC6B4009C8522 /* 二叉树的锯齿形层次遍历.cpp in Sources */,
 				633A332B219AC6B4009C8522 /* 求众数.cpp in Sources */,
 				633A3331219AC6B4009C8522 /* 两数相除.cpp in Sources */,
@@ -514,6 +521,7 @@
 				633A3308219AC6B4009C8522 /* 3的幂.cpp in Sources */,
 				633A331B219AC6B4009C8522 /* 分数到小数.cpp in Sources */,
 				633A3339219AC6B4009C8522 /* x 的平方根.cpp in Sources */,
+				6355D70821A25C2300DE0647 /* 14. Longest Common Prefix.cpp in Sources */,
 				633A3327219AC6B4009C8522 /* 最长上升子序列.cpp in Sources */,
 				633A3333219AC6B4009C8522 /* 单词搜索.cpp in Sources */,
 				633A3315219AC6B4009C8522 /* 相交链表.cpp in Sources */,
