@@ -115,6 +115,7 @@
 		6355D70A21A2667B00DE0647 /* 15. 3Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6355D70921A2667B00DE0647 /* 15. 3Sum.cpp */; };
 		6355D70C21A293CE00DE0647 /* 16. 3Sum Closest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6355D70B21A293CE00DE0647 /* 16. 3Sum Closest.cpp */; };
 		63754A7F21AD153200A3B690 /* 17. Letter Combinations of a Phone Number.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63754A7E21AD153200A3B690 /* 17. Letter Combinations of a Phone Number.cpp */; };
+		63754A8121AD1C6100A3B690 /* 18. 4Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63754A8021AD1C6100A3B690 /* 18. 4Sum.cpp */; };
 		63EB1691219D17470010CFC7 /* 4. Median of two sorted arrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63EB168F219D17470010CFC7 /* 4. Median of two sorted arrays.cpp */; };
 		63EB1692219D17470010CFC7 /* 5.Longest palindromic substring.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63EB1690219D17470010CFC7 /* 5.Longest palindromic substring.cpp */; };
 /* End PBXBuildFile section */
@@ -242,6 +243,7 @@
 		6355D70921A2667B00DE0647 /* 15. 3Sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "15. 3Sum.cpp"; sourceTree = "<group>"; };
 		6355D70B21A293CE00DE0647 /* 16. 3Sum Closest.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "16. 3Sum Closest.cpp"; sourceTree = "<group>"; };
 		63754A7E21AD153200A3B690 /* 17. Letter Combinations of a Phone Number.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "17. Letter Combinations of a Phone Number.cpp"; sourceTree = "<group>"; };
+		63754A8021AD1C6100A3B690 /* 18. 4Sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "18. 4Sum.cpp"; sourceTree = "<group>"; };
 		63EB168F219D17470010CFC7 /* 4. Median of two sorted arrays.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "4. Median of two sorted arrays.cpp"; sourceTree = "<group>"; };
 		63EB1690219D17470010CFC7 /* 5.Longest palindromic substring.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "5.Longest palindromic substring.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -354,6 +356,7 @@
 				6355D70921A2667B00DE0647 /* 15. 3Sum.cpp */,
 				6355D70B21A293CE00DE0647 /* 16. 3Sum Closest.cpp */,
 				63754A7E21AD153200A3B690 /* 17. Letter Combinations of a Phone Number.cpp */,
+				63754A8021AD1C6100A3B690 /* 18. 4Sum.cpp */,
 			);
 			path = "顺序刷题";
 			sourceTree = "<group>";
@@ -501,6 +504,7 @@
 				6355D70C21A293CE00DE0647 /* 16. 3Sum Closest.cpp in Sources */,
 				633A32E5219AC6B4009C8522 /* 只出现一次的数字.cpp in Sources */,
 				633A32F0219AC6B4009C8522 /* 买卖股票的最佳时机 II.cpp in Sources */,
+				63754A8121AD1C6100A3B690 /* 18. 4Sum.cpp in Sources */,
 				633A32DD219AC6B4009C8522 /* 对称二叉树.cpp in Sources */,
 				6355D6FE219E6C0600DE0647 /* 10. Regular Expression Matching.cpp in Sources */,
 				633A32FA219AC6B4009C8522 /* 二叉树的层次遍历.cpp in Sources */,
