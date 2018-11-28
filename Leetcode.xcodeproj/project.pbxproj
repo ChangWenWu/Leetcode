@@ -117,6 +117,8 @@
 		63754A7F21AD153200A3B690 /* 17. Letter Combinations of a Phone Number.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63754A7E21AD153200A3B690 /* 17. Letter Combinations of a Phone Number.cpp */; };
 		63754A8121AD1C6100A3B690 /* 18. 4Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63754A8021AD1C6100A3B690 /* 18. 4Sum.cpp */; };
 		63754A8321AD206900A3B690 /* 19. Remove Nth Node From End of List.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63754A8221AD206900A3B690 /* 19. Remove Nth Node From End of List.cpp */; };
+		63754A8521AE3C6C00A3B690 /* 20. Valid Parentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63754A8421AE3C6B00A3B690 /* 20. Valid Parentheses.cpp */; };
+		63754A8721AE433D00A3B690 /* 21. Merge Two Sorted Lists.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63754A8621AE433D00A3B690 /* 21. Merge Two Sorted Lists.cpp */; };
 		63EB1691219D17470010CFC7 /* 4. Median of two sorted arrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63EB168F219D17470010CFC7 /* 4. Median of two sorted arrays.cpp */; };
 		63EB1692219D17470010CFC7 /* 5.Longest palindromic substring.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63EB1690219D17470010CFC7 /* 5.Longest palindromic substring.cpp */; };
 /* End PBXBuildFile section */
@@ -246,6 +248,8 @@
 		63754A7E21AD153200A3B690 /* 17. Letter Combinations of a Phone Number.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "17. Letter Combinations of a Phone Number.cpp"; sourceTree = "<group>"; };
 		63754A8021AD1C6100A3B690 /* 18. 4Sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "18. 4Sum.cpp"; sourceTree = "<group>"; };
 		63754A8221AD206900A3B690 /* 19. Remove Nth Node From End of List.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "19. Remove Nth Node From End of List.cpp"; sourceTree = "<group>"; };
+		63754A8421AE3C6B00A3B690 /* 20. Valid Parentheses.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "20. Valid Parentheses.cpp"; sourceTree = "<group>"; };
+		63754A8621AE433D00A3B690 /* 21. Merge Two Sorted Lists.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "21. Merge Two Sorted Lists.cpp"; sourceTree = "<group>"; };
 		63EB168F219D17470010CFC7 /* 4. Median of two sorted arrays.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "4. Median of two sorted arrays.cpp"; sourceTree = "<group>"; };
 		63EB1690219D17470010CFC7 /* 5.Longest palindromic substring.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "5.Longest palindromic substring.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -360,6 +364,8 @@
 				63754A7E21AD153200A3B690 /* 17. Letter Combinations of a Phone Number.cpp */,
 				63754A8021AD1C6100A3B690 /* 18. 4Sum.cpp */,
 				63754A8221AD206900A3B690 /* 19. Remove Nth Node From End of List.cpp */,
+				63754A8421AE3C6B00A3B690 /* 20. Valid Parentheses.cpp */,
+				63754A8621AE433D00A3B690 /* 21. Merge Two Sorted Lists.cpp */,
 			);
 			path = "顺序刷题";
 			sourceTree = "<group>";
@@ -528,6 +534,7 @@
 				6355D706219EC16900DE0647 /* 13. Roman to Integer.cpp in Sources */,
 				633A333A219AC6B4009C8522 /* 二叉树的锯齿形层次遍历.cpp in Sources */,
 				633A332B219AC6B4009C8522 /* 求众数.cpp in Sources */,
+				63754A8721AE433D00A3B690 /* 21. Merge Two Sorted Lists.cpp in Sources */,
 				633A3331219AC6B4009C8522 /* 两数相除.cpp in Sources */,
 				633A32F1219AC6B4009C8522 /* 二叉树的最大深度.cpp in Sources */,
 				633A3332219AC6B4009C8522 /* 从前序与中序遍历序列构造二叉树.cpp in Sources */,
@@ -558,6 +565,7 @@
 				633A32E7219AC6B4009C8522 /* 递增的三元子序列.cpp in Sources */,
 				633A3312219AC6B4009C8522 /* 两整数之和.cpp in Sources */,
 				63754A7F21AD153200A3B690 /* 17. Letter Combinations of a Phone Number.cpp in Sources */,
+				63754A8521AE3C6C00A3B690 /* 20. Valid Parentheses.cpp in Sources */,
 				633A32E8219AC6B4009C8522 /* 位1的个数.cpp in Sources */,
 				633A331C219AC6B4009C8522 /* 岛屿的个数.cpp in Sources */,
 				462F9E78219D4C2B003C18D4 /* 7. Reverse Integer.cpp in Sources */,
